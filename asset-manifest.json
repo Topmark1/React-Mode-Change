@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Mode-Change/static/css/main.ce443bc3.css",
+    "main.js": "/React-Mode-Change/static/js/main.d39da953.js",
+    "static/media/logo2.PNG": "/React-Mode-Change/static/media/logo2.6af05dcb32684c0df0c3.PNG",
+    "static/media/logo.PNG": "/React-Mode-Change/static/media/logo.a9b0811786525df505d3.PNG",
+    "index.html": "/React-Mode-Change/index.html",
+    "main.ce443bc3.css.map": "/React-Mode-Change/static/css/main.ce443bc3.css.map",
+    "main.d39da953.js.map": "/React-Mode-Change/static/js/main.d39da953.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce443bc3.css",
+    "static/js/main.d39da953.js"
+  ]
+}
