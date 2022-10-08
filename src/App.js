@@ -1,25 +1,26 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';  
+
 import './App.css';
+import React from 'react'
+import ModeChange from './modeChange/modeChange.js'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+// import Intro from './component/Intro.js'
+// export default function App() {
+//   const data = ['Temitope', 'Akande','Akanji']
+//   return (
+//     <div className="App">
+//    <Intro data ={data}/>
+//     </div>
+//   );
+// }
+// "homepage": "https://github.com/Topmark1/Mode-Change-with-React.git",
+// "predeploy":"npm run build",
+//     "deploy":"gh-pages -d build"
+
+export default function App() {
+
+    return (
+    <>
+    <ModeChange/>
+    </>)
 }
-
-export default App;
