@@ -2,4 +2,4 @@
 
 ## Project link - https://topmark1.github.io/React-Mode-Change/
 
-<a src='https://topmark1.github.io/React-Mode-Change/'>![image](https://github.com/Topmark1/React-Mode-Change/blob/master/src/images/Capture.PNG)</a>
+<a href='https://topmark1.github.io/React-Mode-Change/'>![image](https://github.com/Topmark1/React-Mode-Change/blob/master/src/images/Capture.PNG)</a>
