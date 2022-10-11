@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Project link - https://topmark1.github.io/React-Mode-Change/
-<a src='https://topmark1.github.io/React-Mode-Change/'>![image](https://github.com/Topmark1/React-Mode-Change/blob/master/src/images/Capture.PNG)</a>
+<a href='https://topmark1.github.io/React-Mode-Change/'>![image](https://github.com/Topmark1/React-Mode-Change/blob/master/src/images/Capture.PNG)</a>
 ## Available Scripts
 
 In the project directory, you can run:
