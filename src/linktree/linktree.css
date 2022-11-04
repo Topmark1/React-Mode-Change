@@ -1,5 +1,5 @@
 .main{margin:auto;text-align:center}
-.three{position:absolute;margin:1% 0px 0px 35%}
+.three{position:absolute;margin:1% 0px 0px 35%;}
 .arrow{width:30px}
 .body{display:block;padding-bottom:50px}
 .profile{margin-top:60px}
@@ -12,6 +12,15 @@
 .brand2{display:flex;justify-content:center;flex-wrap:wrap;margin-top:30px}
 .logo1{cursor:pointer;height:40px}
 .logo2{cursor:pointer;height:60px;margin:5px 50px 0px 50px}
+
+.contactbody{margin:60px 15% 20px 15%;}
+.form-group{display:block}
+label{font-size:12px;font-weight:bold}
+.names{display:flex;justify-content:space-between;gap:5%}
+.fdiv{width:100%;margin-top:-10px}
+.email,textarea,.fname{width:100%;padding:8px;border-color:rgb(183, 176, 176);border-radius:5px;margin-bottom:7px;}
+textarea{margin-bottom:10px}
+.checkbox{font-weight:0px}
 
 @media all and (max-width:450px){
     .at{margin:10px 0px 20px 0px;font-size:20px}
