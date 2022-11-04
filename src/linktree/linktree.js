@@ -1,6 +1,6 @@
 import React from 'react'
 import './linktree.css'
-
+import {Link} from 'react-router-dom'
 
 export function Linktree(){
 //<img className='logo' src={require(`./images/arrow.PNG`)} alt='' />
@@ -19,8 +19,9 @@ export function Linktree(){
             <div className='link'><a className='links' id='books_python' href='https://books.zuri.team/phython-for-beginners?ref_id=Topmark'>Phython Books</a></div>
             <div className='link' id='long'><a className='links' id='pitch' href='https://background.zuri.team/'>Background Check for Codes</a></div>
             <div className='link'><a className='links' id='book_design' href='https://training.zuri.team/design-rules'>Design Books</a></div>
-            <div className='link'><a className='links' id='contact' href='https://training.zuri.team/design-rules'>contact</a></div>
-
+                <div className='link'>
+                <Link className='links' id='contact' to='/contact'>contact</Link>
+                </div>
 
             <div className='brand1'>
                 <img className='logo1' src={require(`./images/slack.PNG`)} alt='' />
