@@ -6,7 +6,7 @@ export default function Header(props){
     return (
     <>
 <div className='header' style={props.style.whitebg}>
-    <img src={logo} alt='logo' className='logo'/>
+    <img src={logo} alt='logo' className='logomode'/>
 <h2 className='title'>CODE WAY OF LIFE</h2>
 <p className='lightText' style={props.style.light}>Light</p>
 <div className='buttonBorder' style={props.style.darkbg}><div className='buttonCircle' style={props.style.buttonm} onClick={props.Change}></div></div>

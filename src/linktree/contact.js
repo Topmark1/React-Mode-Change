@@ -27,7 +27,7 @@ export function Contact(){
                 <input type='checkbox' id='checkbox' name='checkbox' value='checkbox'
                 />
                 <label htmlFor='gender' className='checkbox'>You agree to providing your data to Topmark who may contact you. </label>
-                <button type='summit' className='button' id='btn__submit'>Send Message</button>
+                <button type='submit' className='button' id='btn__submit'>Send Message</button>
             
         </div>   
         </div>

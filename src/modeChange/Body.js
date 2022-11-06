@@ -22,9 +22,9 @@ const details2 = info2.split('\n').map((inf2)=> (<>{inf2}<hr></hr></>))
 //<hr></hr>
     return (
         <>    
-    <div  className='body' style={style.bodycolor}>
+    <div  className='bodymode' style={style.bodycolor}>
 <h2 className='title2' style={style.darkcolor}>Some Programming Language and Year Invented</h2>
-<img src={logo2} alt='logo2' className='logo2'/>
+<img src={logo2} alt='logo2' className='logo2mode'/>
 <div className='details'><p id='details' style={style.darkcolor}>
 {details1}
 </p>

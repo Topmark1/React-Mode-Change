@@ -13,15 +13,18 @@ export function Linktree(){
             <div className='profile'><img className='logo' id='profile_img' src={require(`./images/profile.PNG`)} alt='' /></div>
             <h1 className='at' id='twitter' >@topmarktech</h1>
             {/*<h1 className='slack' id='slack' >Topmark</h1>*/}
-            <div className='link'><a className='links' id='twitter' href='https://twitter.com/TechTopmark?t=ox1kEo0Eqkcss6FWtPZcRQ&s=09'>Twitter Link</a></div>
-            <div className='link'><a className='links' id='btn_zuri' href='https://training.zuri.team/'>Zuri Team</a></div>
+            <a className='links' id='twitter' href='https://twitter.com/TechTopmark?t=ox1kEo0Eqkcss6FWtPZcRQ&s=09'><div className='link'>Twitter Link</div></a>
+        
+                <Link className='links' id='mode' to='/mode'><div className='link'>React Mode Change</div></Link>
+                
+           {/*  <div className='link'><a className='links' id='btn_zuri' href='https://training.zuri.team/'>Zuri Team</a></div> */}
             <div className='link'><a className='links' id='books' href='https://books.zuri.team/'>Zuri Books</a></div>
             <div className='link'><a className='links' id='books_python' href='https://books.zuri.team/phython-for-beginners?ref_id=Topmark'>Phython Books</a></div>
             <div className='link' id='long'><a className='links' id='pitch' href='https://background.zuri.team/'>Background Check for Codes</a></div>
             <div className='link'><a className='links' id='book_design' href='https://training.zuri.team/design-rules'>Design Books</a></div>
-                <div className='link'>
-                <Link className='links' id='contact' to='/contact'>contact</Link>
-                </div>
+                
+                <Link className='links' id='contact' to='/contact'><div className='link'>contact</div></Link>
+                
 
             <div className='brand1'>
                 <img className='logo1' src={require(`./images/slack.PNG`)} alt='' />
