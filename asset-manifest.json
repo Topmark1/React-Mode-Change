@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/React-Mode-Change/static/css/main.7d764b64.css",
-    "main.js": "/React-Mode-Change/static/js/main.9e4e54d7.js",
+    "main.css": "/React-Mode-Change/static/css/main.ae573e51.css",
+    "main.js": "/React-Mode-Change/static/js/main.08229abb.js",
     "static/media/ingressive.PNG": "/React-Mode-Change/static/media/ingressive.f168355f86c33c85e570.PNG",
     "static/media/hng.PNG": "/React-Mode-Change/static/media/hng.f12d41644480503a654a.PNG",
     "static/media/profile.PNG": "/React-Mode-Change/static/media/profile.0c7aafa52f48ceee904b.PNG",
     "static/media/zuri.PNG": "/React-Mode-Change/static/media/zuri.41a13fa55d9ed40f8533.PNG",
+    "static/media/logo2.PNG": "/React-Mode-Change/static/media/logo2.6af05dcb32684c0df0c3.PNG",
+    "static/media/logo.PNG": "/React-Mode-Change/static/media/logo.a9b0811786525df505d3.PNG",
     "static/media/github.PNG": "/React-Mode-Change/static/media/github.cdc689b1258aa177deec.PNG",
     "static/media/slack.PNG": "/React-Mode-Change/static/media/slack.9f3a88b5efd690aec322.PNG",
     "static/media/arrow.PNG": "/React-Mode-Change/static/media/arrow.5af8dfa35cb2fe3f6ba9.PNG",
     "index.html": "/React-Mode-Change/index.html",
-    "main.7d764b64.css.map": "/React-Mode-Change/static/css/main.7d764b64.css.map",
-    "main.9e4e54d7.js.map": "/React-Mode-Change/static/js/main.9e4e54d7.js.map"
+    "main.ae573e51.css.map": "/React-Mode-Change/static/css/main.ae573e51.css.map",
+    "main.08229abb.js.map": "/React-Mode-Change/static/js/main.08229abb.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d764b64.css",
-    "static/js/main.9e4e54d7.js"
+    "static/css/main.ae573e51.css",
+    "static/js/main.08229abb.js"
   ]
 }
