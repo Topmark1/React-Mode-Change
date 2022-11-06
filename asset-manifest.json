@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Mode-Change/static/css/main.7d764b64.css",
-    "main.js": "/React-Mode-Change/static/js/main.cdc67b72.js",
+    "main.js": "/React-Mode-Change/static/js/main.9e4e54d7.js",
     "static/media/ingressive.PNG": "/React-Mode-Change/static/media/ingressive.f168355f86c33c85e570.PNG",
     "static/media/hng.PNG": "/React-Mode-Change/static/media/hng.f12d41644480503a654a.PNG",
     "static/media/profile.PNG": "/React-Mode-Change/static/media/profile.0c7aafa52f48ceee904b.PNG",
@@ -11,10 +11,10 @@
     "static/media/arrow.PNG": "/React-Mode-Change/static/media/arrow.5af8dfa35cb2fe3f6ba9.PNG",
     "index.html": "/React-Mode-Change/index.html",
     "main.7d764b64.css.map": "/React-Mode-Change/static/css/main.7d764b64.css.map",
-    "main.cdc67b72.js.map": "/React-Mode-Change/static/js/main.cdc67b72.js.map"
+    "main.9e4e54d7.js.map": "/React-Mode-Change/static/js/main.9e4e54d7.js.map"
   },
   "entrypoints": [
     "static/css/main.7d764b64.css",
-    "static/js/main.cdc67b72.js"
+    "static/js/main.9e4e54d7.js"
   ]
 }
